@@ -1,0 +1,23 @@
+{
+  "string-value": "Hei hallo",
+  "null": null,
+  "true": true,
+  "false": false,
+  "object": {
+    "number": 2.45,
+    "inner_object": {
+      "key": "value"
+    },
+    "haha": "haha",
+    "list": [
+      1,
+      2,
+      {
+        "a": "b",
+        "c": "d",
+        "e": [3, 4]
+      }
+    ]
+  },
+  "yay": "yay"
+}
